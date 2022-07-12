@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![](https://raw.githubusercontent.com/zaquinn/githubstats/bce0c972d03db473c60e2f831758bc4b20afca45/generated/overview.svg?token=AWWX3EF2OOH6LWD2LAAEFFLCZXBM2)
+![](https://raw.githubusercontent.com/zaquinn/githubstats/bce0c972d03db473c60e2f831758bc4b20afca45/generated/languages.svg?token=AWWX3EGF3GIC6AKW3S4DICLCZXBGM)
