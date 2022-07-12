@@ -63,7 +63,7 @@
 <div align="center">
 <h2>Analytics 📊<h2>
   <div>
-    <img src="https://github.com/zaquinn/githubstats/blob/5e9f5bbabc06378f4bed12236c4f66c0ab90eef0/generated/languages.svg"/>
+    <img src="https://github.com/zaquinn/githubstats/blob/master/generated/languages.svg"/>
     <img src="https://github.com/zaquinn/githubstats/blob/master/generated/overview.svg"/>
   </div>
 </div>
