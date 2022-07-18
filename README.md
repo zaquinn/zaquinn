@@ -5,7 +5,7 @@
 <p><strong>Você pode me encontrar aqui:</strong><p>
 <a href="https://www.linkedin.com/in/isaac-xavier-dev/"><img src="https://img.shields.io/badge/LinkedIn-008BF1?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 <p><strong>Meu portfólio:</strong></p>
-<a href="https://projeto-portfolio-jyyjm6y6k-zaquinn.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-008BF1?logo=&logoColor=white&style=for-the-badge"/></a>
+<a href="https://projeto-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-008BF1?logo=&logoColor=white&style=for-the-badge"/></a>
 
 <div align="center">
   <h2>Soft Skills 🕺</h2>
