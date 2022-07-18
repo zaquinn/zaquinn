@@ -3,7 +3,9 @@
 <h2>Sobre mim</h2>
 <p>Atualmente estudo para me formar como Desenvolvedor Web Full Stack na Kenzie Academy Brasil, estou no 4º módulo do curso (equivalente ao 4º bimestre), aprimorando minhas habilidades no desenvolvimento Back End. Tenho desenvolvido aplicações web desde novembro de 2021, quando migrei para a área de tecnologia após um período de 2 anos de trabalho e estudo na área de Arquitetura e Urbanismo. Tenho aprimorado minhas habilidades com código desde então.</p>
 <p><strong>Você pode me encontrar aqui:</strong><p>
-<a href="https://www.linkedin.com/in/isaac-xavier-dev/"><img src="https://img.shields.io/badge/LinkedIn-008BF1?logo=linkedin&logoColor=white&style=for-the-badge"/><a/>
+<a href="https://www.linkedin.com/in/isaac-xavier-dev/"><img src="https://img.shields.io/badge/LinkedIn-008BF1?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
+<p><strong>Meu portfólio:</strong></p>
+<a href="https://projeto-portfolio-jyyjm6y6k-zaquinn.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-008BF1?logo=&logoColor=white&style=for-the-badge"/></a>
 
 <div align="center">
   <h2>Soft Skills 🕺</h2>
