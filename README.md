@@ -10,11 +10,14 @@
 <div align="center">
   <h2>Soft Skills 🕺</h2>
   <div>
+    <img src="https://img.shields.io/badge/Trabalho em equipe-87CEFA?logo=&logoColor=00BFFF&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Autodidata-00BFFF?logo=&logoColor=00BFFF&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Comunicação-1E90FF?logo=&logoColor=00BFFF&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Fácil Aprendizado-7CFC00?logo=&logoColor=00BFFF&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Atenção aos detalhes-191970?logo=&logoColor=00BFFF&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Criatividade-DC143C?logo=&logoColor=00BFFF&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Curiosidade-4B0082?logo=&logoColor=00BFFF&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Aprendizado contínuo-DC143C?logo=&logoColor=00BFFF&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Aprendizado contínuo-yellow?logo=&logoColor=00BFFF&style=for-the-badge"/>
   </div>
 </div>
 
