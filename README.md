@@ -67,8 +67,6 @@
 
 <div align="center">
 <h2>Analytics 📊<h2>
-  <div>
-    <img src="https://github.com/zaquinn/githubstats/blob/master/generated/languages.svg"/>
-    <img src="https://github.com/zaquinn/githubstats/blob/master/generated/overview.svg"/>
-  </div>
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaquinn&theme=tokyonight)
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaquinn&show_icons=true&theme=tokyonight)
 </div>
