@@ -65,8 +65,8 @@
   </div>
 </div>
 
-<div align="center">
+<div align="center" direction="column">
 <h2>Analytics 📊<h2>
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaquinn&theme=tokyonight)
-  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=zaquinn&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=zaquinn&show_icons=true&theme=tokyonight"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zaquinn&theme=tokyonight"/>
 </div>
