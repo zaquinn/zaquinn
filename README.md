@@ -50,6 +50,7 @@
   <h2>Learning 📚</h2>
   <div>
     <img src="https://img.shields.io/badge/-mongodb-D3D3D3?logo=mongodb&logoColor=148906&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-amazon aws-gray?logo=amazonaws&logoColor=yellow&style=for-the-badge"/>
   </div>
 </div>
 
