@@ -43,15 +43,15 @@
     <img src="https://img.shields.io/badge/-heroku-9370DB?logo=heroku&logoColor=purple&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-yarn-008080?logo=yarn&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-git-FF4500?logo=git&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-mongodb-D3D3D3?logo=mongodb&logoColor=148906&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-amazon aws-gray?logo=amazonaws&logoColor=yellow&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white&style=for-the-badge"/>
   </div>
 </div>
 
 <div align="center">
   <h2>Learning 📚</h2>
   <div>
-    <img src="https://img.shields.io/badge/-mongodb-D3D3D3?logo=mongodb&logoColor=148906&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-amazon aws-gray?logo=amazonaws&logoColor=yellow&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-redis-red?logo=redis&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-java-blue?logo=java&logoColor=blue&style=for-the-badge"/>
   </div>
 </div>
