@@ -1,11 +1,9 @@
 <h1>Hello World 🙋‍♂️</h1>
 
 <h2>Sobre mim</h2>
-<p>Realizei uma transição de carreira em novembro de 2021 para a área de tecnologia onde anteriormente eu estudei e trabalhei por 2 anos na área de Arquitetura e Urbanismo. Me sinto feliz com a transição pois sempre amei tecnologia, computadores, desafios e lógica. Estou em constante aprendizado e evolução, com os códigos e na vida. Tenho desenvolvido diversos projetos Front e Back End que você pode acompanhar no meu GitHub ou acessando meu portfólio abaixo. Sinta-se livre para entrar em contato para sugestões, dúvidas e/ou oportunidades.</p>
+<p>Realizei uma transição de carreira em novembro de 2021 para a área de tecnologia onde anteriormente eu estudei e trabalhei por 2 anos na área de Arquitetura e Urbanismo. Me sinto feliz com a transição pois sempre amei tecnologia, computadores, desafios e lógica. Estou em constante aprendizado e evolução, com os códigos e na vida. Tenho desenvolvido diversos projetos Front e Back End que você pode acompanhar nos meus repositórios. Sinta-se livre para entrar em contato para sugestões, dúvidas e/ou oportunidades.</p>
 <p><strong>Você pode me encontrar aqui:</strong><p>
 <a href="https://www.linkedin.com/in/isaac-xavier-dev/"><img src="https://img.shields.io/badge/LinkedIn-008BF1?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
-<p><strong>Meu portfólio:</strong></p>
-<a href="https://projeto-portfolio.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-008BF1?logo=&logoColor=white&style=for-the-badge"/></a>
 
 <div align="center">
   <h2>Soft Skills 🕺</h2>
