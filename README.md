@@ -51,6 +51,7 @@
   <h2>Learning 📚</h2>
   <div>
     <img src="https://img.shields.io/badge/-java-blue?logo=java&logoColor=blue&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-rust-orange?logo=rust&logoColor=white&style=for-the-badge"/>
   </div>
 </div>
 
