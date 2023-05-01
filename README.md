@@ -52,6 +52,9 @@
   <div>
     <img src="https://img.shields.io/badge/-java-blue?logo=java&logoColor=blue&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-rust-orange?logo=rust&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-go-blue?logo=go&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-dart-lightblue?logo=dart&logoColor=blue&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/-flutter-darkblue?logo=flutter&logoColor=lightblue&style=for-the-badge"/>
   </div>
 </div>
 
