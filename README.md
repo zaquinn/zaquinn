@@ -38,7 +38,6 @@
     <img src="https://img.shields.io/badge/-Docker-1E90FF?logo=docker&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-postgreSQL-4682B4?logo=postgresql&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-vercel-black?logo=vercel&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/-heroku-9370DB?logo=heroku&logoColor=purple&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-yarn-008080?logo=yarn&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-git-FF4500?logo=git&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/-mongodb-D3D3D3?logo=mongodb&logoColor=148906&style=for-the-badge"/>
