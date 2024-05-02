@@ -5,9 +5,11 @@
 <p><strong>Você pode me encontrar aqui:</strong><p>
 <a href="https://www.linkedin.com/in/isaac-xavier-dev/"><img src="https://img.shields.io/badge/LinkedIn-008BF1?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 
-<strong>Front End com</strong>: React | NextJs | TypeScript | JavaScript | GIT | CSS | HTML | Redux Toolkit | styled-components | Context API | Chakra UI | TailwindCSS | Bootstrap | SASS/SCSS | Testes com Jest | Noções de UX | Hooks | Testes de componentes e end-to-end com Cypress
+<strong>Front End com</strong>: React | NextJs | TypeScript | JavaScript | TailwindCSS | GIT | CSS | HTML | Redux Toolkit | styled-components | Context API | Chakra UI | Bootstrap | SASS/SCSS | Testes com Jest | Noções de UX | Hooks | Testes de componentes
 
-<strong>Back End com</strong>: NodeJs | ExpressJs | TypeScript | Python | Django && Django REST Framework | PostgreSQL | Construção de APIs RESTful | TypeORM | Testes unitários e de integração com Jest | Docker | JWT | AWS | MongoDB | MySQL | Redis
+<strong>Back End com</strong>: Python | Django && Django REST Framework | NodeJs | ExpressJs |  TypeScript | PostgreSQL | Construção de APIs RESTful | TypeORM | Testes unitários, end-to-end e de integração | Docker | JWT | AWS | MongoDB | MySQL | Redis
+
+Eclesiastes 12.1-8
 
 <div align="center" direction="column">
 <h2>Analytics 📊<h2>
