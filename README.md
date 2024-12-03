@@ -9,7 +9,7 @@
 
 <strong>Back End com</strong>: Python | Django && Django REST Framework | NodeJs | ExpressJs |  TypeScript | PostgreSQL | Construção de APIs RESTful | TypeORM | Testes unitários, end-to-end e de integração | Docker | JWT | AWS | MongoDB | MySQL | Redis
 
-Eclesiastes 12.1-8
+Isaías 53
 
 <div align="center" direction="column">
 <h2>Analytics 📊<h2>
