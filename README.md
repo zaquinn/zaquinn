@@ -9,9 +9,19 @@ I have extensive experience with Python, JavaScript, and TypeScript, leveraging 
 
 Below is a more detailed list of my technical skills:</p>
 
-<strong>Front End</strong>: React | NextJs | TypeScript | JavaScript | TailwindCSS | GIT | CSS | HTML | Redux Toolkit | styled-components | Context API | Chakra UI | Bootstrap | SASS/SCSS | Testes com Jest | Noções de UX | Hooks | Testes de componentes
+On the front-end, I have experience with: React | NextJs | TypeScript | JavaScript | TailwindCSS | CSS | HTML | Redux Toolkit | styled-components | Context API | Chakra UI | Bootstrap | SASS/SCSS | Tests with Jest | UX Basics | Component Testing
 
-<strong>Back End</strong>: Python | Django && Django REST Framework | NodeJs | ExpressJs |  TypeScript | PostgreSQL | Construção de APIs RESTful | TypeORM | Testes unitários, end-to-end e de integração | Docker | JWT | AWS | MongoDB | MySQL | Redis
+On the back-end, I have experience with: Python | Django | Django REST Framework | FastAPI | NodeJs | ExpressJs | TypeScript | RESTful APIs | Microservices | TypeORM | Unit, Integration and E2E tests | Docker | JWT | RabbitMQ
+
+I have experience with the following databases: PostgreSQL | MongoDB | MySQL | Redis
+
+Versioning with: GIT | GitHub | BitBucket
+
+Cloud with: AWS | Vercel
+
+IaC with: Terraform
+
+Monitoring and observability with: Grafana | Prometheus
 
 <p><strong>You can find me here:</strong><p>
 <a href="https://www.linkedin.com/in/isaac-xavier-dev/"><img src="https://img.shields.io/badge/LinkedIn-008BF1?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
