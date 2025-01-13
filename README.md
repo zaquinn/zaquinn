@@ -1,7 +1,7 @@
 <h1>Hello World 🙋‍♂️</h1>
 
 <h2>About me</h2>
-<p>I am a full-stack software engineer with a focus on developing robust, scalable, and secure backends. With over three years of experience, I am highly driven, dedicated, and give 110% every day because I strive to be better today than I was yesterday and better tomorrow than I am today.
+<p>I am a full stack software engineer with a focus on developing robust, scalable, and secure backends. With over three years of experience, I am highly driven, dedicated, and give 110% every day because I strive to be better today than I was yesterday and better tomorrow than I am today.
 
 I excel at working in teams but am also comfortable leading the development of any solution independently, from inception to infrastructure and monitoring in production.
 
