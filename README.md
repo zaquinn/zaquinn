@@ -24,7 +24,7 @@ Monitoring and observability with: Grafana | Prometheus
 <p><strong>You can find me here:</strong><p>
 <a href="https://www.linkedin.com/in/isaac-xavier-dev/"><img src="https://img.shields.io/badge/LinkedIn-008BF1?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 
-Isaiah 53
+Soli Deo Gloria
 
 <div align="center" direction="column">
 <h2>Analytics 📊<h2>
