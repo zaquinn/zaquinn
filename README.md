@@ -1,30 +1,33 @@
 <h1>About me</h1>
-<p>I am a full stack software engineer with a focus on developing robust, scalable, and secure backends. With over three years of experience, I am highly driven, dedicated, and give 110% every day because I strive to be better today than I was yesterday and better tomorrow than I am today.
+I am a full-stack software engineer passionate about building robust, scalable, and secure systems. With over three years of experience, I am highly driven and dedicated, always striving to improve.
 
-I excel at working in teams but am also comfortable leading the development of any solution independently, from inception to infrastructure and monitoring in production.
+I have extensive experience with Python, JavaScript, and TypeScript, leveraging modern frameworks like Django, FastAPI, React, and Next.js to deliver efficient and maintainable applications. 
 
-I have extensive experience with Python, JavaScript, and TypeScript, leveraging modern frameworks and libraries like Django, React, Next.js, FastAPI, among others, to deliver high-quality and efficient technological solutions focused on generating business value.
+I thrive in collaborative environments but am equally comfortable leading projects independently, from initial concept to production deployment, including infrastructure and monitoring. My expertise lies in designing high-performance solutions that generate tangible business value.
 
-Below is a more detailed list of my technical skills:</p>
+My technical skill set includes:
 
-On the front-end, I have experience with: React | NextJs | TypeScript | JavaScript | TailwindCSS | CSS | HTML | Redux Toolkit | styled-components | Context API | Chakra UI | Bootstrap | SASS/SCSS | Tests with Jest | UX Basics | Component Testing
+Frontend:
+React | Next.js | TypeScript | JavaScript | TailwindCSS | CSS | HTML | Redux Toolkit | GraphQL | Context API | Chakra UI | Bootstrap | SASS/SCSS | Jest (unit/component testing) | UX Basics
 
-On the back-end, I have experience with: Python | Django | Django REST Framework | FastAPI | NodeJs | ExpressJs | TypeScript | RESTful APIs | Microservices | TypeORM | Unit, Integration and E2E tests | Docker | JWT | RabbitMQ
+Backend:
+Python | Django | Django REST Framework | FastAPI | Node.js | Express.js | TypeScript | RESTful APIs | Microservices | Unit, Integration & E2E Testing | JWT | RabbitMQ
 
-I have experience with the following databases: PostgreSQL | MongoDB | MySQL | Redis
+Databases:
+PostgreSQL | MongoDB | MySQL | Redis
 
-Versioning with: GIT | GitHub | BitBucket
+DevOps & Cloud:
+Docker | Git (GitHub, BitBucket, Azure DevOps) | AWS | Vercel | Terraform (IaC)
 
-Cloud with: AWS | Vercel
+Monitoring & Observability:
+Grafana | Prometheus | Loki
 
-IaC with: Terraform
-
-Monitoring and observability with: Grafana | Prometheus
+📧 Email: ayzick120@gmail.com
 
 <p><strong>You can find me here:</strong><p>
 <a href="https://www.linkedin.com/in/isaac-xavier-dev/"><img src="https://img.shields.io/badge/LinkedIn-008BF1?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
 
-Soli Deo Gloria
+Isaiah 53
 
 <div align="center" direction="column">
 <h2>Analytics 📊<h2>
