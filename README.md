@@ -1,9 +1,9 @@
 <h1>About me</h1>
-I am a full-stack software engineer passionate about building robust, scalable, and secure systems. With over three years of experience, I am highly driven and dedicated, always striving to improve.
+<p>I am a full-stack software engineer passionate about building robust, scalable, and secure systems. With over three years of experience, I am highly driven and dedicated, always striving to improve.</p>
 
-I have extensive experience with Python, JavaScript, and TypeScript, leveraging modern frameworks like Django, FastAPI, React, and Next.js to deliver efficient and maintainable applications. 
+<p>I have extensive experience with Python, JavaScript, and TypeScript, leveraging modern frameworks like Django, FastAPI, React, and Next.js to deliver efficient and maintainable applications.</p> 
 
-I thrive in collaborative environments but am equally comfortable leading projects independently, from initial concept to production deployment, including infrastructure and monitoring. My expertise lies in designing high-performance solutions that generate tangible business value.
+<p>I thrive in collaborative environments but am equally comfortable leading projects independently, from initial concept to production deployment, including infrastructure and monitoring. My expertise lies in designing high-performance solutions that generate tangible business value.</p>
 
 My technical skill set includes:
 
