@@ -3,8 +3,6 @@
 
 <p>I have extensive experience with Python, JavaScript, and TypeScript, leveraging modern frameworks like Django, FastAPI, React, and Next.js to deliver efficient and maintainable applications.</p> 
 
-<p>I also have knowledge and familiarity with Java, C#, and Go, as well as their respective ecosystems and major frameworks such as Spring, Gin, and ASP.NET. I acquired these skills through self-study and experimental projects, which allows me to work flexibly across different stacks and development environments.</p>
-
 <p>I thrive in collaborative environments but am equally comfortable leading projects independently, from initial concept to production deployment, including infrastructure and monitoring. My expertise lies in designing high-performance solutions that generate tangible business value.</p>
 
 My technical skill set includes:
