@@ -11,7 +11,7 @@ Frontend:
 React | Next.js | TypeScript | JavaScript | TailwindCSS | CSS | HTML | Redux Toolkit | GraphQL | Context API | Chakra UI | Bootstrap | SASS/SCSS | Jest (unit/component testing) | UX Basics
 
 Backend:
-Python | Django | Django REST Framework | FastAPI | Node.js | Express.js | TypeScript | RESTful APIs | Microservices | Unit, Integration & E2E Testing | JWT | RabbitMQ
+Python | Django | Django REST Framework | FastAPI | Node.js | Fastify | Express.js | TypeScript | RESTful APIs | Microservices | Unit, Integration & E2E Testing | JWT | RabbitMQ
 
 Databases:
 PostgreSQL | MongoDB | MySQL | Redis
@@ -22,7 +22,7 @@ Docker | Git (GitHub, BitBucket, Azure DevOps) | AWS | Vercel | Terraform (IaC)
 Monitoring & Observability:
 Grafana | Prometheus | Loki
 
-📧 Email: ayzick120@gmail.com
+Email: ayzick120@gmail.com
 
 <p><strong>You can find me here:</strong><p>
 <a href="https://www.linkedin.com/in/isaac-xavier-dev/"><img src="https://img.shields.io/badge/LinkedIn-008BF1?logo=linkedin&logoColor=white&style=for-the-badge"/></a>
