@@ -1,26 +1,20 @@
 <h1>About me</h1>
-<p>I am a full-stack software engineer passionate about building robust, scalable, and secure systems. With over three years of experience, I am highly driven and dedicated, always striving to improve.</p>
-
-<p>I have extensive experience with Python, JavaScript, and TypeScript, leveraging modern frameworks like Django, FastAPI, React, and Next.js to deliver efficient and maintainable applications.</p> 
-
-<p>I thrive in collaborative environments but am equally comfortable leading projects independently, from initial concept to production deployment, including infrastructure and monitoring. My expertise lies in designing high-performance solutions that generate tangible business value.</p>
+<p>Results-driven Software Engineer with 3+ years of experience designing and building scalable web applications and backend systems across healthtech and industrial sectors. Skilled in Python, TypeScript, Go, and modern frameworks such as React, Next.js, Django, and FastAPI. Proven track record of delivering mission-critical features, optimizing legacy systems with significant performance gains, and contributing to high-impact products responsible for over 60% of company revenue. Passionate about clean architecture, performance, and mentoring others.
+</p>
 
 My technical skill set includes:
 
-Frontend:
-React | Next.js | TypeScript | JavaScript | TailwindCSS | CSS | HTML | Redux Toolkit | GraphQL | Context API | Chakra UI | Bootstrap | SASS/SCSS | Jest (unit/component testing) | UX Basics
+Languages:
+Python · TypeScript · JavaScript · Go (Golang) · HTML · CSS
 
-Backend:
-Python | Django | Django REST Framework | FastAPI | Node.js | Fastify | Express.js | TypeScript | RESTful APIs | Microservices | Unit, Integration & E2E Testing | JWT | RabbitMQ
+Frameworks & Libraries:
+React · Next.js · Angular · Express.js · Fastify · Django · FastAPI · Django REST Framework · Gin · Fiber
 
-Databases:
-PostgreSQL | MongoDB | MySQL | Redis
+Databases & Messaging:
+PostgreSQL · MySQL · MongoDB · RabbitMQ · Redis
 
-DevOps & Cloud:
-Docker | Git (GitHub, BitBucket, Azure DevOps) | AWS | Vercel | Terraform (IaC)
-
-Monitoring & Observability:
-Grafana | Prometheus | Loki
+DevOps & Tools:
+Docker · AWS · Git · CI/CD · Linux · Grafana · Prometheus · Loki
 
 Email: ayzick120@gmail.com
 
